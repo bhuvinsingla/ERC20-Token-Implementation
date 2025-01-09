@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ERC20 Token
 Build ERC20 Token and Launch a Token Sale
 

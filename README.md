@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ERC20 Token
 Build ERC20 Token and Launch a Token Sale
 
@@ -68,3 +69,6 @@ Your task is follow the tutorial described above.
     3.  Buy tokens with ETH in the Ropsten testnet. 
 ## Module
 MI2: Module 4: E1
+=======
+# ERC20-Token-Implementation
+>>>>>>> 7264056322356c536ee216117a2e6719fcfb0444
